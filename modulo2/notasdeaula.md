@@ -1,18 +1,19 @@
-## Notas de aula referente ao módulo 2
+# Notas de aula referente ao módulo 2
 
 Nesta aula estamos apresentando comandos bem legais e úteis.
 
+## git status
 
-### git status
-**verificar o status dos arquivos e pastas dentro do nosso repositório**
+* verificar o status dos arquivos e pastas dentro do nosso repositório
 
+## git add
 
-### git add
+## git add .
 
-### git add .
-
-**adiciona todos os arquivos para a esteira o commit**
+* adiciona todos os arquivos para a esteira o commit
 
 ### git add [caminho do arquivo]
 
-**adicionar um arquivo específico**
+* adicionar um arquivo específico
+
+### 
