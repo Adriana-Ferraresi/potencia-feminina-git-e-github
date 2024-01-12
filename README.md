@@ -1,5 +1,7 @@
-# Projeto potencia feminna - Rede Mulher Empreendedora e Womakerscode
+# Projeto potencia feminna 
 
-## Curso git e github 
+## Rede Mulher Empreendedora e Womakerscode
 
-## Criando o primeiro repositorio e aprendendo os comandos mais utilizados
+### Curso git e github 
+
+### Criando o primeiro repositorio e aprendendo os comandos mais utilizados
